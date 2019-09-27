@@ -4,9 +4,9 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: parrotstream/hue:latest
+    image: comchangs/hue:latest
     networks:
-    - parrot
+    - comchangs
     external_links:
     - hive
     - hadoop
@@ -19,8 +19,8 @@ services:
 networks:
   default:
     external:
-      name: parrot
-  parrot:
+      name: comchangs
+  comchangs:
     driver: bridge
 volumes:
   hadoop_conf: null

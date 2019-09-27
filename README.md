@@ -10,17 +10,17 @@ The *latest* tag of this image is build with the [latest stable](http://gethue.c
 
 You can pull it with:
 
-    docker pull parrotstream/hue
+    docker pull comchangs/hue
 
 
 You can also find other images based on different Cloudera Hue releases, using a different tag in the following form:
 
-    docker pull parrotstream/hue:[hue-release]
+    docker pull comchangs/hue:[hue-release]
 
 
 For example, if you want Apache Hue release 3.11 you can pull the image with:
 
-    docker pull parrotstream/hue:3.11
+    docker pull comchangs/hue:3.11
 
 
 Run with Docker Compose:
@@ -39,7 +39,7 @@ Once started you'll be able to access the Hue Web console at:
 
 ### Available tags:
 
-- Cloudera Hue 4.0.0 ([4.0.0](https://github.com/parrot-stream/docker-hue/blob/4.0.0/Dockerfile), [latest](https://github.com/parrot-stream/docker-hue/blob/latest/Dockerfile))
-- Cloudera Hue 3.12.0 ([3.12.0](https://github.com/parrot-stream/docker-hue/blob/3.12.0/Dockerfile))
-- Cloudera Hue 3.11.0 ([3.12.0](https://github.com/parrot-stream/docker-hue/blob/3.11.0/Dockerfile))
-- Cloudera Hue 3.9.0-cdh5.12.0 ([3.9.0-cdh5.12.0](https://github.com/parrot-stream/docker-hue/blob/3.9.0-cdh5.12.0/Dockerfile))
+- Cloudera Hue 4.0.0 ([4.0.0](https://github.com/comchangs/docker-hue/blob/4.0.0/Dockerfile), [latest](https://github.com/comchangs/docker-hue/blob/latest/Dockerfile))
+- Cloudera Hue 3.12.0 ([3.12.0](https://github.com/comchangs/docker-hue/blob/3.12.0/Dockerfile))
+- Cloudera Hue 3.11.0 ([3.12.0](https://github.com/comchangs/docker-hue/blob/3.11.0/Dockerfile))
+- Cloudera Hue 3.9.0-cdh5.12.0 ([3.9.0-cdh5.12.0](https://github.com/comchangs/docker-hue/blob/3.9.0-cdh5.12.0/Dockerfile))
