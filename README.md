@@ -28,7 +28,7 @@ Run with Docker Compose:
     docker-compose -p comchangs up
 
 
-Setting the project name to *parrot* with the **-p** option is useful to share the network created with the containers coming from other Parrot docker-compose.yml configurations.
+Setting the project name to *comchangs* with the **-p** option is useful to share the network created with the containers coming from other Parrot docker-compose.yml configurations.
 
 Once started you'll be able to access the Hue Web console at:
 
