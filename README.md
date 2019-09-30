@@ -25,7 +25,7 @@ For example, if you want Apache Hue release 3.11 you can pull the image with:
 
 Run with Docker Compose:
 
-    docker-compose -p parrot up
+    docker-compose -p comchangs up
 
 
 Setting the project name to *parrot* with the **-p** option is useful to share the network created with the containers coming from other Parrot docker-compose.yml configurations.
