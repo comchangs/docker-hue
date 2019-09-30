@@ -35,11 +35,3 @@ Once started you'll be able to access the Hue Web console at:
 | **HUE Web GUI**           |**URL**                            |
 |:--------------------------|:----------------------------------|
 | *Cloudera Hue*            | http://localhost:8000            |
-
-
-### Available tags:
-
-- Cloudera Hue 4.0.0 ([4.0.0](https://github.com/comchangs/docker-hue/blob/4.0.0/Dockerfile), [latest](https://github.com/comchangs/docker-hue/blob/latest/Dockerfile))
-- Cloudera Hue 3.12.0 ([3.12.0](https://github.com/comchangs/docker-hue/blob/3.12.0/Dockerfile))
-- Cloudera Hue 3.11.0 ([3.12.0](https://github.com/comchangs/docker-hue/blob/3.11.0/Dockerfile))
-- Cloudera Hue 3.9.0-cdh5.12.0 ([3.9.0-cdh5.12.0](https://github.com/comchangs/docker-hue/blob/3.9.0-cdh5.12.0/Dockerfile))
